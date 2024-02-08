@@ -16,7 +16,7 @@ body {
     left: 0;
     background-color: #eee;
     border-bottom: 1 px solid #ddd;
-    box-shadow: 0 px 3 px 5 px 0 px rgba(0,0,0,0.75);
+    box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.75);
 }
 
 .header-container {
